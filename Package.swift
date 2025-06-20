@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         // Add any external dependencies here, e.g.:
-        .package(url: "https://github.com/Marivva00/MyPackage1.git", from: "1.0.0"),
+        .package(url: "https://github.com/Marivva00/MyPackage1.git", from: "1.0.1"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.

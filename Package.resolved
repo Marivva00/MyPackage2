@@ -1,13 +1,13 @@
 {
-  "originHash" : "6079221c8557442406a3a1b3b9067d2e558b0482a8865c44490ac9cc747bd9b8",
+  "originHash" : "dd0de414ac1b3cf5f038c116e6a228c6cd0c02cf141b45d1f1f1ee175cb3c8c2",
   "pins" : [
     {
       "identity" : "mypackage1",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Marivva00/MyPackage1.git",
       "state" : {
-        "revision" : "1bb4845e41db97689ef7b4b5f0856a4ca643c511",
-        "version" : "1.0.0"
+        "revision" : "617293d3f671224c6ece771047f8c54fa97d412b",
+        "version" : "1.0.1"
       }
     }
   ],
