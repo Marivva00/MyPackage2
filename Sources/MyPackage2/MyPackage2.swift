@@ -5,4 +5,8 @@ import MyPackage1
 
 public class MyPackage2 {
     private let package1 = MyPackage1()
+
+    public init() {
+        
+    }
 }
